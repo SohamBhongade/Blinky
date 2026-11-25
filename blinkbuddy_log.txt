@@ -1,0 +1,149 @@
+2026-11-24 12:15:18  App started
+2026-11-24 12:15:22  Calibrated: open-eye EAR 0.232, closed threshold 0.163
+2026-11-24 12:15:22  App ready
+2026-11-24 12:15:41  SOS ALERT (rapid blinks)
+2026-11-24 12:15:44  SOS / nurse call cleared (keyboard)
+2026-11-24 12:15:57  Selected: LIGHT - waiting for confirmation
+2026-11-24 12:16:03  Light ON (confirmed)
+2026-11-24 12:16:13  SOS ALERT (rapid blinks)
+2026-11-24 12:16:15  SOS / nurse call cleared (keyboard)
+2026-11-24 12:16:45  Selected: FAN - waiting for confirmation
+2026-11-24 12:16:52  Fan ON (confirmed)
+2026-11-24 12:17:00  Selected: FAN - waiting for confirmation
+2026-11-24 12:17:05  Fan OFF (confirmed)
+2026-11-24 12:17:13  SOS ALERT (rapid blinks)
+2026-11-24 12:17:17  SOS / nurse call cleared (keyboard)
+2026-11-24 12:17:19  SOS ALERT (rapid blinks)
+2026-11-24 12:17:24  SOS / nurse call cleared (keyboard)
+2026-11-24 12:17:32  SOS ALERT (rapid blinks)
+2026-11-24 12:17:34  SOS / nurse call cleared (keyboard)
+2026-11-24 12:17:37  Selected: CALL NURSE - waiting for confirmation
+2026-11-24 12:17:41  Nurse called (confirmed)
+2026-11-24 12:18:02  Selected: LIGHT - waiting for confirmation
+2026-11-24 12:18:09  Cancelled: LIGHT (not confirmed)
+2026-11-24 12:18:15  Selected: LIGHT - waiting for confirmation
+2026-11-24 12:18:19  Light OFF (confirmed)
+2026-11-24 12:18:26  SOS ALERT (rapid blinks)
+2026-11-24 12:18:28  SOS / nurse call cleared (keyboard)
+2026-11-24 12:18:49  Selected: LIGHT - waiting for confirmation
+2026-11-24 12:18:53  Light ON (confirmed)
+2026-11-24 12:19:02  Selected: LIGHT - waiting for confirmation
+2026-11-24 12:19:06  Light OFF (confirmed)
+2026-11-24 12:19:16  Selected: FAN - waiting for confirmation
+2026-11-24 12:19:20  Fan ON (confirmed)
+2026-11-24 12:19:27  Selected: FAN - waiting for confirmation
+2026-11-24 12:19:33  Fan OFF (confirmed)
+2026-11-24 12:22:11  SOS ALERT (rapid blinks)
+2026-11-24 12:22:13  SOS / nurse call cleared (keyboard)
+2026-11-24 12:22:15  SOS ALERT (rapid blinks)
+2026-11-24 12:22:16  SOS / nurse call cleared (keyboard)
+2026-11-24 12:22:44  Selected: LIGHT - waiting for confirmation
+2026-11-24 12:22:49  Light ON (confirmed)
+2026-11-24 12:22:58  Selected: FAN - waiting for confirmation
+2026-11-24 12:23:03  Fan ON (confirmed)
+2026-11-24 12:23:11  SOS ALERT (rapid blinks)
+2026-11-24 12:23:12  SOS / nurse call cleared (keyboard)
+2026-11-24 12:23:39  SOS ALERT (rapid blinks)
+2026-11-24 12:23:42  SOS / nurse call cleared (keyboard)
+2026-11-24 12:24:16  Selected: FAN - waiting for confirmation
+2026-11-24 12:24:20  Fan OFF (confirmed)
+2026-11-24 12:24:26  SOS ALERT (rapid blinks)
+2026-11-24 12:24:28  SOS / nurse call cleared (keyboard)
+2026-11-24 12:25:10  Selected: LIGHT - waiting for confirmation
+2026-11-24 12:25:13  Light OFF (confirmed)
+2026-11-24 12:25:39  SOS ALERT (rapid blinks)
+2026-11-24 12:25:40  SOS / nurse call cleared (keyboard)
+2026-11-24 12:28:44  App closed
+2026-11-24 12:28:51  App started
+2026-11-24 12:28:54  Calibrated: open-eye EAR 0.246, closed threshold 0.172
+2026-11-24 12:28:54  App ready
+2026-11-24 12:29:45  Selected: LIGHT - waiting for confirmation
+2026-11-24 12:29:49  Light ON (confirmed)
+2026-11-24 12:29:52  App closed
+2026-11-24 12:32:02  App started
+2026-11-24 12:32:15  Calibrated: open-eye EAR 0.270, closed threshold 0.189
+2026-11-24 12:32:15  App ready
+2026-11-24 12:32:25  Selected: LIGHT - waiting for confirmation
+2026-11-24 12:32:32  Light ON (confirmed)
+2026-11-24 12:33:08  SOS ALERT (rapid blinks)
+2026-11-24 12:33:09  SOS / nurse call cleared (keyboard)
+2026-11-24 12:33:15  SOS ALERT (rapid blinks)
+2026-11-24 12:33:16  SOS / nurse call cleared (keyboard)
+2026-11-24 12:33:23  Selected: LIGHT - waiting for confirmation
+2026-11-24 12:33:28  Light OFF (confirmed)
+2026-11-24 12:36:50  App closed
+2026-11-24 12:37:14  App started
+2026-11-24 12:37:19  Calibrated: open-eye EAR 0.314, closed threshold 0.219
+2026-11-24 12:37:19  App ready
+2026-11-24 12:37:28  Selected: LIGHT - waiting for confirmation
+2026-11-24 12:37:32  Light ON (confirmed)
+2026-11-24 12:37:39  Selected: LIGHT - waiting for confirmation
+2026-11-24 12:37:41  SOS ALERT (rapid blinks)
+2026-11-24 12:37:43  SOS / nurse call cleared (keyboard)
+2026-11-24 12:37:46  SOS ALERT (rapid blinks)
+2026-11-24 12:37:47  SOS / nurse call cleared (keyboard)
+2026-11-24 12:37:55  Selected: FAN - waiting for confirmation
+2026-11-24 12:37:59  Fan ON (confirmed)
+2026-11-24 12:38:34  SOS ALERT (rapid blinks)
+2026-11-24 12:38:41  SOS / nurse call cleared (keyboard)
+2026-11-24 12:38:43  Selected: CALL NURSE - waiting for confirmation
+2026-11-24 12:38:49  Cancelled: CALL NURSE (not confirmed)
+2026-11-24 12:39:03  SOS ALERT (rapid blinks)
+2026-11-24 12:39:06  SOS / nurse call cleared (keyboard)
+2026-11-24 12:39:06  Selected: FAN - waiting for confirmation
+2026-11-24 12:39:11  Fan OFF (confirmed)
+2026-11-24 12:39:19  Selected: FAN - waiting for confirmation
+2026-11-24 12:39:23  SOS ALERT (rapid blinks)
+2026-11-24 12:39:30  SOS / nurse call cleared (keyboard)
+2026-11-24 12:39:52  Selected: LIGHT - waiting for confirmation
+2026-11-24 12:39:57  SOS ALERT (rapid blinks)
+2026-11-24 12:40:02  SOS / nurse call cleared (keyboard)
+2026-11-24 12:40:10  Selected: FAN - waiting for confirmation
+2026-11-24 12:40:14  Fan ON (confirmed)
+2026-11-24 12:40:20  Selected: FAN - waiting for confirmation
+2026-11-24 12:40:23  Fan OFF (confirmed)
+2026-11-24 12:40:36  SOS ALERT (keyboard)
+2026-11-24 12:40:38  SOS / nurse call cleared (keyboard)
+2026-11-24 12:40:42  SOS ALERT (rapid blinks)
+2026-11-24 12:40:43  SOS / nurse call cleared (keyboard)
+2026-11-24 12:40:49  SOS / nurse call cleared (keyboard)
+2026-11-24 12:40:49  SOS / nurse call cleared (keyboard)
+2026-11-24 12:41:25  SOS ALERT (rapid blinks)
+2026-11-24 12:41:26  SOS / nurse call cleared (keyboard)
+2026-11-24 12:41:31  Selected: SOS - waiting for confirmation
+2026-11-24 12:41:37  Cancelled: SOS (not confirmed)
+2026-11-24 12:41:46  SOS ALERT (rapid blinks)
+2026-11-24 12:41:50  SOS / nurse call cleared (keyboard)
+2026-11-24 12:42:12  Selected: FAN - waiting for confirmation
+2026-11-24 12:42:19  Fan ON (confirmed)
+2026-11-24 12:42:24  Selected: FAN - waiting for confirmation
+2026-11-24 12:42:30  Cancelled: FAN (not confirmed)
+2026-11-24 12:42:46  SOS ALERT (rapid blinks)
+2026-11-24 12:42:47  SOS / nurse call cleared (keyboard)
+2026-11-24 12:42:48  App closed
+2026-11-24 12:42:58  App started
+2026-11-24 12:43:02  Calibrated: open-eye EAR 0.257, closed threshold 0.180
+2026-11-24 12:43:02  App ready
+2026-11-24 12:43:08  App closed
+2026-11-24 12:47:15  App started
+2026-11-24 12:47:18  Calibrated: open-eye EAR 0.166, closed threshold 0.116
+2026-11-24 12:47:18  App ready
+2026-11-24 12:47:24  SOS ALERT (rapid blinks)
+2026-11-24 12:47:26  SOS / nurse call cleared (keyboard)
+2026-11-24 12:47:31  Selected: CALL NURSE - waiting for confirmation
+2026-11-24 12:47:37  Cancelled: CALL NURSE (not confirmed)
+2026-11-24 12:47:54  Selected: CALL NURSE - waiting for confirmation
+2026-11-24 12:48:00  Nurse called (confirmed)
+2026-11-24 12:48:05  App closed
+2026-11-24 12:50:37  App started
+2026-11-24 12:50:40  Calibrated: open-eye EAR 0.230, closed threshold 0.161
+2026-11-24 12:50:40  App ready
+2026-11-24 12:51:32  Selected: LIGHT - waiting for confirmation
+2026-11-24 12:51:35  Light ON (confirmed)
+2026-11-24 12:51:47  Selected: FAN - waiting for confirmation
+2026-11-24 12:51:53  Cancelled: FAN (not confirmed)
+2026-11-24 12:52:12  Selected: LIGHT - waiting for confirmation
+2026-11-24 12:52:15  App closed
+2026-11-25 09:02:39  App started (demo mode, Arduino not connected)
+2026-11-25 09:02:42  Calibrated: open-eye EAR 0.246, closed threshold 0.172
+2026-11-25 09:02:42  App ready

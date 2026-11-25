@@ -1,0 +1,20 @@
+# Python modules for Blinky (use Python 3.12).
+# The installers (INSTALL_WINDOWS.bat / INSTALL_MAC.command) install these for you.
+
+# Windows laptops and Apple-chip Macs (M1/M2/M3/M4)
+mediapipe==1.2.3 ; platform_system != "Darwin" or platform_machine == "arm64"
+numpy==2.5.5 ; platform_system != "Darwin" or platform_machine == "arm64"
+opencv-contrib-python==5.1.0.95 ; platform_system == "Windows"
+opencv-contrib-python ; platform_system == "Darwin" and platform_machine == "arm64"   # newest that fits the Mac's macOS version
+
+# Older Intel Macs (newer mediapipe is not made for them)
+mediapipe==0.10.21 ; platform_system == "Darwin" and platform_machine == "x86_64"
+numpy<2 ; platform_system == "Darwin" and platform_machine == "x86_64"
+opencv-contrib-python==4.10.0.84 ; platform_system == "Darwin" and platform_machine == "x86_64"
+
+# Everyone
+pillow==13.0.0
+pyserial==3.5
+
+# Windows only: backup voice (the Mac uses its built-in "say" voice instead)
+pyttsx3==2.99 ; platform_system == "Windows"

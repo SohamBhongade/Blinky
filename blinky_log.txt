@@ -1,0 +1,833 @@
+2026-11-24 12:53:07  App started
+2026-11-24 12:53:10  Calibrated: open-eye EAR 0.195, closed threshold 0.137
+2026-11-24 12:53:10  App ready
+2026-11-24 12:53:13  SOS ALERT (rapid blinks)
+2026-11-24 12:53:21  SOS / nurse call cleared (keyboard)
+2026-11-24 12:53:31  Selected: LIGHT - waiting for confirmation
+2026-11-24 12:53:35  Light ON (confirmed)
+2026-11-24 12:53:40  Selected: LIGHT - waiting for confirmation
+2026-11-24 12:53:46  Cancelled: LIGHT (not confirmed)
+2026-11-24 12:54:06  Selected: CALL NURSE - waiting for confirmation
+2026-11-24 12:54:08  Nurse called (confirmed)
+2026-11-24 12:54:18  SOS ALERT (rapid blinks)
+2026-11-24 12:54:20  SOS / nurse call cleared (keyboard)
+2026-11-24 12:55:14  Selected: SOS - waiting for confirmation
+2026-11-24 12:55:21  Cancelled: SOS (not confirmed)
+2026-11-24 12:55:27  SOS ALERT (rapid blinks)
+2026-11-24 12:55:31  SOS / nurse call cleared (keyboard)
+2026-11-24 12:55:37  Selected: CALL NURSE - waiting for confirmation
+2026-11-24 12:55:46  Nurse called (confirmed)
+2026-11-24 12:55:54  Selected: LIGHT - waiting for confirmation
+2026-11-24 12:55:58  Light OFF (confirmed)
+2026-11-24 12:56:32  App closed
+2026-11-24 13:07:00  App started
+2026-11-24 13:07:03  Calibrated: open-eye EAR 0.299, closed threshold 0.209
+2026-11-24 13:07:03  App ready
+2026-11-24 13:07:06  SOS ALERT (rapid blinks)
+2026-11-24 13:07:07  SOS / nurse call cleared (keyboard)
+2026-11-24 13:07:21  Selected: FAN - waiting for confirmation
+2026-11-24 13:07:24  Fan ON (confirmed)
+2026-11-24 13:07:55  SOS ALERT (rapid blinks)
+2026-11-24 13:07:58  SOS / nurse call cleared (keyboard)
+2026-11-24 13:08:04  Selected: FAN - waiting for confirmation
+2026-11-24 13:08:09  Fan OFF (confirmed)
+2026-11-24 13:08:16  Selected: FAN - waiting for confirmation
+2026-11-24 13:08:22  Fan ON (confirmed)
+2026-11-24 13:08:37  Selected: FAN - waiting for confirmation
+2026-11-24 13:08:41  Fan OFF (confirmed)
+2026-11-24 13:08:46  Selected: FAN - waiting for confirmation
+2026-11-24 13:08:47  App closed
+2026-11-24 13:16:51  App started
+2026-11-24 13:17:12  Calibrated: open-eye EAR 0.264, closed threshold 0.185
+2026-11-24 13:17:12  App ready
+2026-11-24 13:17:22  Selected: LIGHT - waiting for confirmation
+2026-11-24 13:17:26  Light ON (confirmed)
+2026-11-24 13:17:32  Selected: LIGHT - waiting for confirmation
+2026-11-24 13:17:38  Cancelled: LIGHT (not confirmed)
+2026-11-24 13:17:42  Selected: LIGHT - waiting for confirmation
+2026-11-24 13:17:47  Light OFF (confirmed)
+2026-11-24 13:18:11  Selected: CALL NURSE - waiting for confirmation
+2026-11-24 13:18:17  Nurse called (confirmed)
+2026-11-24 13:19:31  Selected: LIGHT - waiting for confirmation
+2026-11-24 13:19:36  Light ON (confirmed)
+2026-11-24 13:20:01  SOS ALERT (rapid blinks)
+2026-11-24 13:20:03  SOS / nurse call cleared (keyboard)
+2026-11-24 13:20:43  Selected: FAN - waiting for confirmation
+2026-11-24 13:20:46  Fan ON (confirmed)
+2026-11-24 13:21:15  Selected: FAN - waiting for confirmation
+2026-11-24 13:21:18  Fan OFF (confirmed)
+2026-11-24 13:21:35  Selected: FAN - waiting for confirmation
+2026-11-24 13:21:41  Cancelled: FAN (not confirmed)
+2026-11-24 13:21:50  Selected: SOS - waiting for confirmation
+2026-11-24 13:21:56  Cancelled: SOS (not confirmed)
+2026-11-24 13:22:09  Selected: FAN - waiting for confirmation
+2026-11-24 13:22:14  Fan ON (confirmed)
+2026-11-24 13:22:31  Selected: FAN - waiting for confirmation
+2026-11-24 13:22:34  Fan OFF (confirmed)
+2026-11-24 13:23:31  App closed
+2026-11-24 13:23:40  App started
+2026-11-24 13:23:43  Calibrated: open-eye EAR 0.310, closed threshold 0.217
+2026-11-24 13:23:43  App ready
+2026-11-24 13:23:50  Selected: CALL NURSE - waiting for confirmation
+2026-11-24 13:23:56  Nurse called (confirmed)
+2026-11-24 13:24:05  Selected: LIGHT - waiting for confirmation
+2026-11-24 13:24:10  Light ON (confirmed)
+2026-11-24 13:24:22  Selected: FAN - waiting for confirmation
+2026-11-24 13:24:28  Cancelled: FAN (not confirmed)
+2026-11-24 13:24:36  Selected: FAN - waiting for confirmation
+2026-11-24 13:24:40  Fan ON (confirmed)
+2026-11-24 13:24:52  SOS ALERT (rapid blinks)
+2026-11-24 13:24:54  SOS / nurse call cleared (keyboard)
+2026-11-24 13:24:59  SOS ALERT (rapid blinks)
+2026-11-24 13:25:00  SOS / nurse call cleared (keyboard)
+2026-11-24 13:25:02  SOS ALERT (rapid blinks)
+2026-11-24 13:25:03  App closed
+2026-11-24 13:25:11  App started
+2026-11-24 13:25:13  App closed
+2026-11-24 13:33:10  App started
+2026-11-24 13:33:13  Calibrated: open-eye EAR 0.287, closed threshold 0.201
+2026-11-24 13:33:13  App ready
+2026-11-24 13:33:19  Selected: CALL NURSE - waiting for confirmation
+2026-11-24 13:33:25  Cancelled: CALL NURSE (not confirmed)
+2026-11-24 13:33:32  Selected: LIGHT - waiting for confirmation
+2026-11-24 13:33:38  Cancelled: LIGHT (not confirmed)
+2026-11-24 13:34:20  App closed
+2026-11-24 13:34:27  App started
+2026-11-24 13:34:30  Calibrated: open-eye EAR 0.311, closed threshold 0.218
+2026-11-24 13:34:30  App ready
+2026-11-24 13:34:35  Selected: CALL NURSE - waiting for confirmation
+2026-11-24 13:34:41  Cancelled: CALL NURSE (not confirmed)
+2026-11-24 13:34:53  Patient is sleeping - scanning paused (eyes closed 20 s)
+2026-11-24 13:35:21  Patient is awake - scanning again (eyes open)
+2026-11-24 13:35:45  SOS ALERT (rapid blinks)
+2026-11-24 13:35:50  SOS / nurse call cleared (keyboard)
+2026-11-24 13:35:57  SOS ALERT (rapid blinks)
+2026-11-24 13:35:59  SOS / nurse call cleared (keyboard)
+2026-11-24 13:36:02  SOS ALERT (rapid blinks)
+2026-11-24 13:36:06  SOS / nurse call cleared (keyboard)
+2026-11-24 13:36:34  Selected: LIGHT - waiting for confirmation
+2026-11-24 13:36:40  Cancelled: LIGHT (not confirmed)
+2026-11-24 13:37:37  Selected: CALL NURSE - waiting for confirmation
+2026-11-24 13:37:43  Cancelled: CALL NURSE (not confirmed)
+2026-11-24 13:41:53  Selected: FAN - waiting for confirmation
+2026-11-24 13:41:57  Fan ON (confirmed)
+2026-11-24 13:42:04  Selected: FAN - waiting for confirmation
+2026-11-24 13:42:11  Fan OFF (confirmed)
+2026-11-24 13:42:18  Selected: FAN - waiting for confirmation
+2026-11-24 13:42:24  Cancelled: FAN (not confirmed)
+2026-11-24 13:42:32  SOS ALERT (rapid blinks)
+2026-11-24 13:42:38  SOS / nurse call cleared (keyboard)
+2026-11-24 13:42:49  SOS ALERT (rapid blinks)
+2026-11-24 13:42:52  SOS / nurse call cleared (keyboard)
+2026-11-24 13:43:08  Selected: CALL NURSE - waiting for confirmation
+2026-11-24 13:43:14  Cancelled: CALL NURSE (not confirmed)
+2026-11-24 13:43:28  Selected: FAN - waiting for confirmation
+2026-11-24 13:43:34  Fan ON (confirmed)
+2026-11-24 13:43:41  Selected: FAN - waiting for confirmation
+2026-11-24 13:43:46  App closed
+2026-11-24 13:43:57  App started
+2026-11-24 13:44:01  Calibrated: open-eye EAR 0.207, closed threshold 0.145
+2026-11-24 13:44:01  App ready
+2026-11-24 13:44:03  App closed
+2026-11-24 13:46:42  App started
+2026-11-24 13:46:45  Calibrated: open-eye EAR 0.246, closed threshold 0.172
+2026-11-24 13:46:45  App ready
+2026-11-24 13:46:51  Selected: SOS - waiting for confirmation
+2026-11-24 13:46:55  App closed
+2026-11-24 13:50:50  App started
+2026-11-24 13:50:53  Calibrated: open-eye EAR 0.121, closed threshold 0.085
+2026-11-24 13:50:53  App ready
+2026-11-24 13:51:17  Selected: LIGHT - waiting for confirmation
+2026-11-24 13:51:20  Light ON (confirmed)
+2026-11-24 13:51:53  Selected: FAN - waiting for confirmation
+2026-11-24 13:51:57  Fan ON (confirmed)
+2026-11-24 13:52:06  Selected: SOS - waiting for confirmation
+2026-11-24 13:52:11  SOS ALERT (confirmed)
+2026-11-24 13:52:14  SOS / nurse call cleared (keyboard)
+2026-11-24 13:52:23  App closed
+2026-11-24 13:52:30  App started
+2026-11-24 13:52:34  Calibrated: open-eye EAR 0.589, closed threshold 0.413
+2026-11-24 13:52:34  App ready
+2026-11-24 13:52:39  App closed
+2026-11-24 13:55:05  App started
+2026-11-24 13:55:08  Calibrated: open-eye EAR 0.313, closed threshold 0.219
+2026-11-24 13:55:08  App ready
+2026-11-24 13:55:19  Selected: LIGHT - waiting for confirmation
+2026-11-24 13:55:24  Light ON (confirmed)
+2026-11-24 13:55:31  Selected: FAN - waiting for confirmation
+2026-11-24 13:55:37  Cancelled: FAN (not confirmed)
+2026-11-24 13:55:42  Selected: FAN - waiting for confirmation
+2026-11-24 13:55:47  SOS ALERT (rapid blinks)
+2026-11-24 13:55:52  SOS / nurse call cleared (keyboard)
+2026-11-24 13:55:58  SOS ALERT (rapid blinks)
+2026-11-24 13:55:59  SOS / nurse call cleared (keyboard)
+2026-11-24 13:56:07  Selected: CALL NURSE - waiting for confirmation
+2026-11-24 13:56:12  Nurse called (confirmed)
+2026-11-24 13:56:41  Selected: FAN - waiting for confirmation
+2026-11-24 13:56:45  Fan ON (confirmed)
+2026-11-24 13:56:59  Selected: FAN - waiting for confirmation
+2026-11-24 13:57:05  Cancelled: FAN (not confirmed)
+2026-11-24 13:57:31  App closed
+2026-11-24 13:57:36  App started
+2026-11-24 13:57:38  App closed
+2026-11-25 08:25:55  App started (demo mode, Arduino not connected)
+2026-11-25 08:25:58  Calibrated: open-eye EAR 0.286, closed threshold 0.200
+2026-11-25 08:25:58  App ready
+2026-11-25 08:26:20  Selected: LIGHT - waiting for confirmation
+2026-11-25 08:26:28  Light ON (confirmed)
+2026-11-25 08:27:02  Selected: FAN - waiting for confirmation
+2026-11-25 08:27:07  Fan ON (confirmed)
+2026-11-25 08:28:33  App closed
+2026-11-25 08:28:39  App started (demo mode, Arduino not connected)
+2026-11-25 08:28:42  Calibrated: open-eye EAR 0.294, closed threshold 0.206
+2026-11-25 08:28:42  App ready
+2026-11-25 08:28:45  App closed
+2026-11-25 08:31:50  App started (demo mode, Arduino not connected)
+2026-11-25 08:31:53  Calibrated: open-eye EAR 0.284, closed threshold 0.199
+2026-11-25 08:31:53  App ready
+2026-11-25 08:31:55  SOS ALERT (rapid blinks)
+2026-11-25 08:31:57  SOS / nurse call cleared (keyboard)
+2026-11-25 08:32:01  Paused (button)
+2026-11-25 08:32:01  Resumed (button)
+2026-11-25 08:32:05  SOS ALERT (rapid blinks)
+2026-11-25 08:32:06  SOS / nurse call cleared (keyboard)
+2026-11-25 08:34:07  App started (demo mode, Arduino not connected)
+2026-11-25 08:34:10  Calibrated: open-eye EAR 0.237, closed threshold 0.166
+2026-11-25 08:34:10  App ready
+2026-11-25 08:34:58  SOS ALERT (rapid blinks)
+2026-11-25 08:36:25  App closed
+2026-11-25 08:36:32  App started
+2026-11-25 08:36:36  Calibrated: open-eye EAR 0.291, closed threshold 0.203
+2026-11-25 08:36:36  App ready
+2026-11-25 08:36:38  SOS ALERT (rapid blinks)
+2026-11-25 08:36:41  SOS / nurse call cleared (keyboard)
+2026-11-25 08:36:42  Arduino not found - COM5: could not open port 'COM5': PermissionError(13, 'Access is denied.', None, 5) | COM10: could not open port 'COM10': OSError(22, 'The semaphore timeout period has expired.', None, 121) | COM6: could not open port 'COM6': OSError(22, 'The semaphore timeout period has expired.', None, 121)
+2026-11-25 08:36:56  Arduino not found - COM5: could not open port 'COM5': PermissionError(13, 'Access is denied.', None, 5) | COM10: could not open port 'COM10': OSError(22, 'The semaphore timeout period has expired.', None, 121) | COM6: could not open port 'COM6': OSError(22, 'The semaphore timeout period has expired.', None, 121)
+2026-11-25 08:37:10  Arduino not found - COM5: could not open port 'COM5': PermissionError(13, 'Access is denied.', None, 5) | COM10: could not open port 'COM10': OSError(22, 'The semaphore timeout period has expired.', None, 121) | COM6: could not open port 'COM6': OSError(22, 'The semaphore timeout period has expired.', None, 121)
+2026-11-25 08:37:13  Selected: SOS - waiting for confirmation
+2026-11-25 08:37:19  Cancelled: SOS (not confirmed)
+2026-11-25 08:37:25  Arduino not found - COM5: could not open port 'COM5': PermissionError(13, 'Access is denied.', None, 5) | COM10: could not open port 'COM10': OSError(22, 'The semaphore timeout period has expired.', None, 121) | COM6: could not open port 'COM6': OSError(22, 'The semaphore timeout period has expired.', None, 121)
+2026-11-25 08:37:29  Arduino connected on COM5
+2026-11-25 08:37:29  App closed
+2026-11-25 08:37:45  App started
+2026-11-25 08:37:46  Arduino connected on COM5
+2026-11-25 08:37:48  Calibrated: open-eye EAR 0.294, closed threshold 0.206
+2026-11-25 08:37:48  App ready
+2026-11-25 08:37:56  SOS ALERT (rapid blinks)
+2026-11-25 08:38:00  SOS / nurse call cleared (keyboard)
+2026-11-25 08:38:10  Selected: FAN - waiting for confirmation
+2026-11-25 08:38:14  Fan ON (confirmed)
+2026-11-25 08:38:36  Selected: FAN - waiting for confirmation
+2026-11-25 08:38:41  Fan OFF (confirmed)
+2026-11-25 08:38:53  Selected: CALL NURSE - waiting for confirmation
+2026-11-25 08:38:58  Nurse called (confirmed)
+2026-11-25 08:39:00  SOS ALERT (rapid blinks)
+2026-11-25 08:39:02  SOS / nurse call cleared (keyboard)
+2026-11-25 08:39:08  Selected: LIGHT - waiting for confirmation
+2026-11-25 08:39:12  Light ON (confirmed)
+2026-11-25 08:39:21  Selected: LIGHT - waiting for confirmation
+2026-11-25 08:39:26  Light OFF (confirmed)
+2026-11-25 08:39:33  Paused (button)
+2026-11-25 08:39:36  SOS ALERT (rapid blinks)
+2026-11-25 08:39:39  SOS / nurse call cleared (keyboard)
+2026-11-25 08:39:53  SOS ALERT (rapid blinks)
+2026-11-25 08:39:56  SOS / nurse call cleared (keyboard)
+2026-11-25 08:40:00  Selected: SOS - waiting for confirmation
+2026-11-25 08:40:06  Cancelled: SOS (not confirmed)
+2026-11-25 08:40:13  Paused (button)
+2026-11-25 08:40:35  Resumed (button)
+2026-11-25 08:40:36  SOS ALERT (rapid blinks)
+2026-11-25 08:40:38  SOS / nurse call cleared (keyboard)
+2026-11-25 08:40:42  Selected: SOS - waiting for confirmation
+2026-11-25 08:40:47  SOS ALERT (confirmed)
+2026-11-25 08:40:48  SOS / nurse call cleared (keyboard)
+2026-11-25 08:40:52  Selected: SOS - waiting for confirmation
+2026-11-25 08:40:58  Cancelled: SOS (not confirmed)
+2026-11-25 08:41:25  Selected: SOS - waiting for confirmation
+2026-11-25 08:41:32  Cancelled: SOS (not confirmed)
+2026-11-25 08:42:07  Selected: LIGHT - waiting for confirmation
+2026-11-25 08:42:13  Cancelled: LIGHT (not confirmed)
+2026-11-25 08:42:25  Patient is sleeping - scanning paused (eyes closed 20 s)
+2026-11-25 08:42:32  Patient is awake - scanning again (eyes open)
+2026-11-25 08:42:41  Selected: FAN - waiting for confirmation
+2026-11-25 08:42:45  Fan ON (confirmed)
+2026-11-25 08:42:50  Selected: FAN - waiting for confirmation
+2026-11-25 08:42:55  Fan OFF (confirmed)
+2026-11-25 08:43:08  Selected: SOS - waiting for confirmation
+2026-11-25 08:43:14  Cancelled: SOS (not confirmed)
+2026-11-25 08:43:21  Selected: SOS - waiting for confirmation
+2026-11-25 08:43:27  Cancelled: SOS (not confirmed)
+2026-11-25 08:43:49  Selected: FAN - waiting for confirmation
+2026-11-25 08:43:54  Fan ON (confirmed)
+2026-11-25 08:43:59  Selected: FAN - waiting for confirmation
+2026-11-25 08:44:04  Fan OFF (confirmed)
+2026-11-25 08:44:09  SOS ALERT (rapid blinks)
+2026-11-25 08:44:12  SOS / nurse call cleared (keyboard)
+2026-11-25 08:44:21  Selected: CALL NURSE - waiting for confirmation
+2026-11-25 08:44:27  Nurse called (confirmed)
+2026-11-25 08:44:55  SOS ALERT (rapid blinks)
+2026-11-25 08:44:57  SOS / nurse call cleared (keyboard)
+2026-11-25 08:44:59  Paused (button)
+2026-11-25 08:45:04  SOS ALERT (rapid blinks)
+2026-11-25 08:45:05  SOS / nurse call cleared (keyboard)
+2026-11-25 08:45:13  Selected: CALL NURSE - waiting for confirmation
+2026-11-25 08:45:15  SOS ALERT (rapid blinks)
+2026-11-25 08:45:16  App closed
+2026-11-25 08:45:24  App started
+2026-11-25 08:45:25  Arduino connected on COM5
+2026-11-25 08:45:26  App closed
+2026-11-25 08:51:24  App started
+2026-11-25 08:51:25  Arduino connected on COM5
+2026-11-25 08:51:28  Calibrated: open-eye EAR 0.225, closed threshold 0.157
+2026-11-25 08:51:28  App ready
+2026-11-25 08:52:05  Selected: LIGHT - waiting for confirmation
+2026-11-25 08:52:11  Light ON (confirmed)
+2026-11-25 08:52:30  SOS ALERT (rapid blinks)
+2026-11-25 08:52:34  SOS / nurse call cleared (keyboard)
+2026-11-25 08:53:07  SOS ALERT (rapid blinks)
+2026-11-25 08:53:12  SOS / nurse call cleared (keyboard)
+2026-11-25 08:53:41  Selected: CALL NURSE - waiting for confirmation
+2026-11-25 08:53:47  Cancelled: CALL NURSE (not confirmed)
+2026-11-25 08:53:53  Selected: CALL NURSE - waiting for confirmation
+2026-11-25 08:53:59  Nurse called (confirmed)
+2026-11-25 08:56:01  SOS ALERT (rapid blinks)
+2026-11-25 08:56:03  SOS / nurse call cleared (keyboard)
+2026-11-25 08:56:05  App closed
+2026-11-25 09:03:42  App started
+2026-11-25 09:03:46  Calibrated: open-eye EAR 0.295, closed threshold 0.207
+2026-11-25 09:03:46  App ready
+2026-11-25 09:03:52  Arduino not found - COM5: could not open port 'COM5': PermissionError(13, 'Access is denied.', None, 5) | COM10: could not open port 'COM10': OSError(22, 'The semaphore timeout period has expired.', None, 121) | COM6: could not open port 'COM6': OSError(22, 'The semaphore timeout period has expired.', None, 121)  -> a port is busy: close the Arduino IDE Serial Monitor / other Blinky windows
+2026-11-25 09:03:58  App closed
+2026-11-25 09:04:04  App started
+2026-11-25 09:04:05  Arduino connected on COM5
+2026-11-25 09:04:07  Calibrated: open-eye EAR 0.271, closed threshold 0.190
+2026-11-25 09:04:07  App ready
+2026-11-25 09:04:11  SOS ALERT (rapid blinks)
+2026-11-25 09:04:13  SOS / nurse call cleared (keyboard)
+2026-11-25 09:07:03  App started
+2026-11-25 09:07:04  Arduino connected on COM5
+2026-11-25 09:07:06  Calibrated: open-eye EAR 0.271, closed threshold 0.189
+2026-11-25 09:07:06  App ready
+2026-11-25 09:07:28  Selected: LIGHT - waiting for confirmation
+2026-11-25 09:07:33  Light ON (confirmed)
+2026-11-25 09:07:42  Selected: FAN - waiting for confirmation
+2026-11-25 09:07:46  Fan ON (confirmed)
+2026-11-25 09:08:04  Selected: LIGHT - waiting for confirmation
+2026-11-25 09:08:10  Light OFF (confirmed)
+2026-11-25 09:08:16  SOS ALERT (rapid blinks)
+2026-11-25 09:08:19  SOS / nurse call cleared (keyboard)
+2026-11-25 09:08:24  SOS ALERT (rapid blinks)
+2026-11-25 09:08:26  SOS / nurse call cleared (keyboard)
+2026-11-25 09:08:38  Selected: FAN - waiting for confirmation
+2026-11-25 09:08:43  Fan OFF (confirmed)
+2026-11-25 09:08:54  Selected: CALL NURSE - waiting for confirmation
+2026-11-25 09:08:59  Nurse called (confirmed)
+2026-11-25 09:10:03  Selected: SOS - waiting for confirmation
+2026-11-25 09:10:10  Cancelled: SOS (not confirmed)
+2026-11-25 09:10:12  Selected: SOS - waiting for confirmation
+2026-11-25 09:10:18  Cancelled: SOS (not confirmed)
+2026-11-25 09:10:23  SOS ALERT (rapid blinks)
+2026-11-25 09:10:25  SOS / nurse call cleared (keyboard)
+2026-11-25 09:10:28  SOS ALERT (rapid blinks)
+2026-11-25 09:10:31  SOS / nurse call cleared (keyboard)
+2026-11-25 09:10:33  Paused (button)
+2026-11-25 09:10:54  SOS ALERT (rapid blinks)
+2026-11-25 09:10:55  SOS / nurse call cleared (keyboard)
+2026-11-25 09:11:04  App closed
+2026-11-25 09:12:44  App started
+2026-11-25 09:12:44  Arduino connected on COM5
+2026-11-25 09:12:47  Calibrated: open-eye EAR 0.269, closed threshold 0.188
+2026-11-25 09:12:47  App ready
+2026-11-25 09:12:50  SOS ALERT (rapid blinks)
+2026-11-25 09:12:51  SOS / nurse call cleared (keyboard)
+2026-11-25 09:13:04  Selected: FAN - waiting for confirmation
+2026-11-25 09:13:09  Fan ON (confirmed)
+2026-11-25 09:13:30  Selected: FAN - waiting for confirmation
+2026-11-25 09:13:37  Fan OFF (confirmed)
+2026-11-25 09:15:42  Selected: CALL NURSE - waiting for confirmation
+2026-11-25 09:15:48  Cancelled: CALL NURSE (not confirmed)
+2026-11-25 09:16:12  Selected: CALL NURSE - waiting for confirmation
+2026-11-25 09:16:18  Cancelled: CALL NURSE (not confirmed)
+2026-11-25 09:16:58  Selected: CALL NURSE - waiting for confirmation
+2026-11-25 09:17:05  Cancelled: CALL NURSE (not confirmed)
+2026-11-25 09:17:25  App closed
+2026-11-25 09:17:30  App started
+2026-11-25 09:17:30  Arduino connected on COM5
+2026-11-25 09:17:33  Calibrated: open-eye EAR 0.265, closed threshold 0.185
+2026-11-25 09:17:33  App ready
+2026-11-25 09:17:42  App closed
+2026-11-25 09:19:28  App started
+2026-11-25 09:19:28  Arduino connected on COM5
+2026-11-25 09:19:31  Calibrated: open-eye EAR 0.288, closed threshold 0.202
+2026-11-25 09:19:31  App ready
+2026-11-25 09:19:40  SOS ALERT (rapid blinks)
+2026-11-25 09:19:42  SOS / nurse call cleared (keyboard)
+2026-11-25 09:19:44  Selected: CALL NURSE - waiting for confirmation
+2026-11-25 09:19:50  Cancelled: CALL NURSE (not confirmed)
+2026-11-25 09:20:15  Selected: CALL NURSE - waiting for confirmation
+2026-11-25 09:20:21  Cancelled: CALL NURSE (not confirmed)
+2026-11-25 09:20:26  Selected: CALL NURSE - waiting for confirmation
+2026-11-25 09:20:34  Cancelled: CALL NURSE (not confirmed)
+2026-11-25 09:21:06  App closed
+2026-11-25 09:21:11  App started
+2026-11-25 09:21:12  Arduino connected on COM5
+2026-11-25 09:21:17  Calibrated: open-eye EAR 0.291, closed threshold 0.203
+2026-11-25 09:21:17  App ready
+2026-11-25 09:21:20  SOS ALERT (rapid blinks)
+2026-11-25 09:21:22  SOS / nurse call cleared (keyboard)
+2026-11-25 09:22:14  Selected: CALL NURSE - waiting for confirmation
+2026-11-25 09:22:23  Nurse called (confirmed)
+2026-11-25 09:22:37  Selected: LIGHT - waiting for confirmation
+2026-11-25 09:22:45  Cancelled: LIGHT (not confirmed)
+2026-11-25 09:22:47  Selected: LIGHT - waiting for confirmation
+2026-11-25 09:22:51  Light ON (confirmed)
+2026-11-25 09:23:03  SOS ALERT (rapid blinks)
+2026-11-25 09:23:05  SOS / nurse call cleared (keyboard)
+2026-11-25 09:23:14  Selected: LIGHT - waiting for confirmation
+2026-11-25 09:23:24  Light OFF (confirmed)
+2026-11-25 09:23:28  App closed
+2026-11-25 09:23:48  App started
+2026-11-25 09:23:49  Arduino connected on COM5
+2026-11-25 09:23:51  Calibrated: open-eye EAR 0.273, closed threshold 0.191
+2026-11-25 09:23:51  App ready
+2026-11-25 09:24:01  Selected: LIGHT - waiting for confirmation
+2026-11-25 09:24:05  Light ON (confirmed)
+2026-11-25 09:24:24  Selected: LIGHT - waiting for confirmation
+2026-11-25 09:24:33  Light OFF (confirmed)
+2026-11-25 09:24:51  SOS ALERT (rapid blinks)
+2026-11-25 09:24:54  SOS / nurse call cleared (keyboard)
+2026-11-25 09:25:19  Selected: SOS - waiting for confirmation
+2026-11-25 09:25:29  SOS ALERT (confirmed)
+2026-11-25 09:25:32  SOS / nurse call cleared (keyboard)
+2026-11-25 09:25:40  Selected: CALL NURSE - waiting for confirmation
+2026-11-25 09:25:49  Nurse called (confirmed)
+2026-11-25 09:26:01  App closed
+2026-11-25 09:32:51  App started
+2026-11-25 09:32:52  Arduino connected on COM5
+2026-11-25 09:32:54  Calibrated: open-eye EAR 0.513, closed threshold 0.359
+2026-11-25 09:32:54  App ready
+2026-11-25 09:32:59  Selected: SOS - waiting for confirmation
+2026-11-25 09:33:06  Cancelled: SOS (not confirmed)
+2026-11-25 09:33:12  Selected: SOS - waiting for confirmation
+2026-11-25 09:33:19  Cancelled: SOS (not confirmed)
+2026-11-25 09:33:30  Patient is sleeping - scanning paused (eyes closed 20 s)
+2026-11-25 09:33:45  App closed
+2026-11-25 09:33:51  App started
+2026-11-25 09:33:51  Arduino connected on COM5
+2026-11-25 09:33:54  Calibrated: open-eye EAR 0.302, closed threshold 0.212
+2026-11-25 09:33:54  App ready
+2026-11-25 09:34:09  SOS ALERT (rapid blinks)
+2026-11-25 09:34:16  Nurse is coming (phone)
+2026-11-25 09:34:18  Nurse is coming (phone)
+2026-11-25 09:34:19  Nurse is coming (phone)
+2026-11-25 09:34:22  SOS / nurse call cleared (keyboard)
+2026-11-25 09:34:34  Selected: LIGHT - waiting for confirmation
+2026-11-25 09:34:43  Light ON (confirmed)
+2026-11-25 09:35:11  App closed
+2026-11-25 10:04:41  App started
+2026-11-25 10:04:42  Arduino connected on COM5
+2026-11-25 10:04:44  Calibrated: open-eye EAR 0.283, closed threshold 0.198
+2026-11-25 10:04:44  App ready
+2026-11-25 10:04:46  SOS ALERT (rapid blinks)
+2026-11-25 10:04:51  SOS / nurse call cleared (keyboard)
+2026-11-25 10:05:00  Selected: LIGHT - waiting for confirmation
+2026-11-25 10:05:07  Light ON (confirmed)
+2026-11-25 10:05:27  SOS ALERT (rapid blinks)
+2026-11-25 10:05:31  SOS / nurse call cleared (keyboard)
+2026-11-25 10:05:35  Selected: FAN - waiting for confirmation
+2026-11-25 10:05:38  App closed
+2026-11-25 10:05:45  App started
+2026-11-25 10:05:46  Arduino connected on COM5
+2026-11-25 10:05:48  App closed
+2026-11-25 10:36:21  App started
+2026-11-25 10:36:23  Arduino connected on COM5
+2026-11-25 10:36:25  Calibrated: open-eye EAR 0.277, closed threshold 0.194
+2026-11-25 10:36:25  App ready
+2026-11-25 10:36:26  SOS ALERT (rapid blinks)
+2026-11-25 10:36:33  SOS / nurse call cleared (keyboard)
+2026-11-25 10:36:58  Selected: LIGHT - waiting for confirmation
+2026-11-25 10:37:03  Light ON (confirmed)
+2026-11-25 10:37:09  SOS ALERT (rapid blinks)
+2026-11-25 10:37:12  SOS / nurse call cleared (keyboard)
+2026-11-25 10:37:14  App closed
+2026-11-25 10:37:19  App started
+2026-11-25 10:37:20  Arduino connected on COM5
+2026-11-25 10:37:25  Calibrated: open-eye EAR 0.309, closed threshold 0.216
+2026-11-25 10:37:25  App ready
+2026-11-25 10:37:27  App closed
+2026-11-25 10:39:54  App started
+2026-11-25 10:39:55  Arduino connected on COM5
+2026-11-25 10:40:00  Calibrated: open-eye EAR 0.268, closed threshold 0.188
+2026-11-25 10:40:00  App ready
+2026-11-25 10:40:02  Selected: SOS - waiting for confirmation
+2026-11-25 10:41:59  Cancelled: SOS (not confirmed)
+2026-11-25 10:42:06  SOS ALERT (rapid blinks)
+2026-11-25 10:42:06  Arduino link lost on COM5 - reconnecting
+2026-11-25 10:42:07  SOS / nurse call cleared (keyboard)
+2026-11-25 10:42:08  Arduino connected on COM5
+2026-11-25 10:42:10  SOS ALERT (rapid blinks)
+2026-11-25 10:42:13  SOS / nurse call cleared (keyboard)
+2026-11-25 10:42:16  Selected: SOS - waiting for confirmation
+2026-11-25 10:42:23  SOS ALERT (confirmed)
+2026-11-25 10:42:46  SOS / nurse call cleared (keyboard)
+2026-11-25 10:43:10  Selected: SOS - waiting for confirmation
+2026-11-25 10:43:13  SOS ALERT (rapid blinks)
+2026-11-25 10:43:16  SOS / nurse call cleared (keyboard)
+2026-11-25 10:43:16  Selected: SOS - waiting for confirmation
+2026-11-25 10:43:23  Cancelled: SOS (not confirmed)
+2026-11-25 10:43:32  SOS ALERT (rapid blinks)
+2026-11-25 10:43:34  SOS / nurse call cleared (keyboard)
+2026-11-25 10:43:44  Selected: FAN - waiting for confirmation
+2026-11-25 10:43:48  Fan ON (confirmed)
+2026-11-25 10:44:40  SOS ALERT (rapid blinks)
+2026-11-25 10:44:41  App closed
+2026-11-25 10:58:45  App started
+2026-11-25 10:58:47  Arduino connected on COM5
+2026-11-25 10:58:48  Calibrated: open-eye EAR 0.223, closed threshold 0.156
+2026-11-25 10:58:48  App ready
+2026-11-25 10:58:52  Selected: SOS - waiting for confirmation
+2026-11-25 10:58:59  Cancelled: SOS (not confirmed)
+2026-11-25 10:59:14  Selected: FAN - waiting for confirmation
+2026-11-25 10:59:18  Fan ON (confirmed)
+2026-11-25 10:59:22  App closed
+2026-11-25 10:59:28  App started
+2026-11-25 10:59:29  Arduino connected on COM5
+2026-11-25 10:59:31  Calibrated: open-eye EAR 0.285, closed threshold 0.199
+2026-11-25 10:59:31  App ready
+2026-11-25 10:59:41  Selected: LIGHT - waiting for confirmation
+2026-11-25 10:59:46  Light ON (confirmed)
+2026-11-25 10:59:54  Selected: FAN - waiting for confirmation
+2026-11-25 11:00:00  Fan ON (confirmed)
+2026-11-25 11:00:03  Selected: FAN - waiting for confirmation
+2026-11-25 11:00:10  Cancelled: FAN (not confirmed)
+2026-11-25 11:00:15  Selected: FAN - waiting for confirmation
+2026-11-25 11:00:17  App closed
+2026-11-25 11:00:25  App started
+2026-11-25 11:00:26  Arduino connected on COM5
+2026-11-25 11:00:28  Calibrated: open-eye EAR 0.264, closed threshold 0.185
+2026-11-25 11:00:28  App ready
+2026-11-25 11:00:51  App closed
+2026-11-25 11:53:32  App started
+2026-11-25 11:53:35  Calibrated: open-eye EAR 0.301, closed threshold 0.211
+2026-11-25 11:53:35  App ready
+2026-11-25 11:53:46  Arduino not found - COM5: could not open port 'COM5': OSError(22, 'The semaphore timeout period has expired.', None, 121) | COM10: could not open port 'COM10': OSError(22, 'The semaphore timeout period has expired.', None, 121) | COM6: could not open port 'COM6': OSError(22, 'The semaphore timeout period has expired.', None, 121)
+2026-11-25 11:53:52  Arduino connected on COM5
+2026-11-25 11:54:01  Selected: LIGHT - waiting for confirmation
+2026-11-25 11:54:07  Light ON (confirmed)
+2026-11-25 11:54:22  Selected: CALL NURSE - waiting for confirmation
+2026-11-25 11:54:28  Nurse called (confirmed)
+2026-11-25 11:54:36  Selected: LIGHT - waiting for confirmation
+2026-11-25 11:54:43  Light OFF (confirmed)
+2026-11-25 11:54:53  Selected: FAN - waiting for confirmation
+2026-11-25 11:54:57  Fan ON (confirmed)
+2026-11-25 11:55:04  App closed
+2026-11-25 11:55:10  App started
+2026-11-25 11:55:11  Arduino connected on COM5
+2026-11-25 11:55:13  Calibrated: open-eye EAR 0.314, closed threshold 0.220
+2026-11-25 11:55:13  App ready
+2026-11-25 11:55:18  SOS ALERT (rapid blinks)
+2026-11-25 11:55:21  SOS / nurse call cleared (keyboard)
+2026-11-25 11:55:33  Selected: FAN - waiting for confirmation
+2026-11-25 11:55:38  Fan ON (confirmed)
+2026-11-25 11:55:55  Selected: LIGHT - waiting for confirmation
+2026-11-25 11:56:01  Light ON (confirmed)
+2026-11-25 11:56:07  SOS ALERT (rapid blinks)
+2026-11-25 11:56:09  SOS / nurse call cleared (keyboard)
+2026-11-25 11:56:38  Selected: LIGHT - waiting for confirmation
+2026-11-25 11:56:43  Light OFF (confirmed)
+2026-11-25 11:56:51  Selected: FAN - waiting for confirmation
+2026-11-25 11:56:57  Fan OFF (confirmed)
+2026-11-25 11:57:10  Selected: SOS - waiting for confirmation
+2026-11-25 11:57:17  Cancelled: SOS (not confirmed)
+2026-11-25 11:57:22  SOS ALERT (rapid blinks)
+2026-11-25 11:57:23  SOS / nurse call cleared (keyboard)
+2026-11-25 11:58:22  App closed
+2026-11-25 11:59:06  App started
+2026-11-25 11:59:07  Arduino connected on COM5
+2026-11-25 11:59:08  Calibrated: skipped with Space, closed threshold 0.200
+2026-11-25 11:59:08  App ready
+2026-11-25 11:59:21  Selected: LIGHT - waiting for confirmation
+2026-11-25 11:59:25  SOS ALERT (rapid blinks)
+2026-11-25 11:59:27  SOS / nurse call cleared (keyboard)
+2026-11-25 11:59:43  App closed
+2026-11-25 12:30:24  App started
+2026-11-25 12:30:27  Calibrated: open-eye EAR 0.236, closed threshold 0.165
+2026-11-25 12:30:27  App ready
+2026-11-25 12:30:33  App closed
+2026-11-25 12:30:59  App started
+2026-11-25 12:31:00  Arduino connected on COM5
+2026-11-25 12:31:03  Calibrated: open-eye EAR 0.136, closed threshold 0.095
+2026-11-25 12:31:03  App ready
+2026-11-25 12:31:12  SOS ALERT (rapid blinks)
+2026-11-25 12:31:15  SOS / nurse call cleared (keyboard)
+2026-11-25 12:31:30  SOS ALERT (rapid blinks)
+2026-11-25 12:31:31  App closed
+2026-11-25 13:05:30  App started
+2026-11-25 13:05:33  Calibrated: open-eye EAR 0.306, closed threshold 0.214
+2026-11-25 13:05:33  App ready
+2026-11-25 13:05:43  Selected: CALL NURSE - waiting for confirmation
+2026-11-25 13:05:44  Arduino not found - COM5: could not open port 'COM5': OSError(22, 'The semaphore timeout period has expired.', None, 121) | COM10: could not open port 'COM10': OSError(22, 'The semaphore timeout period has expired.', None, 121) | COM6: could not open port 'COM6': OSError(22, 'The semaphore timeout period has expired.', None, 121)
+2026-11-25 13:05:52  Nurse called (confirmed)
+2026-11-25 13:06:00  Selected: LIGHT - waiting for confirmation
+2026-11-25 13:06:07  Light ON (confirmed)
+2026-11-25 13:06:23  SOS ALERT (rapid blinks)
+2026-11-25 13:06:27  SOS / nurse call cleared (keyboard)
+2026-11-25 13:06:44  Selected: SOS - waiting for confirmation
+2026-11-25 13:06:49  SOS ALERT (confirmed)
+2026-11-25 13:06:52  SOS / nurse call cleared (keyboard)
+2026-11-25 13:08:20  Selected: CALL NURSE - waiting for confirmation
+2026-11-25 13:08:27  Nurse called (confirmed)
+2026-11-25 13:08:40  Selected: FAN - waiting for confirmation
+2026-11-25 13:08:46  Fan ON (confirmed)
+2026-11-25 13:08:55  Selected: SOS - waiting for confirmation
+2026-11-25 13:08:58  SOS ALERT (confirmed)
+2026-11-25 13:09:04  SOS / nurse call cleared (keyboard)
+2026-11-25 13:09:13  Selected: LIGHT - waiting for confirmation
+2026-11-25 13:09:21  Cancelled: LIGHT (not confirmed)
+2026-11-25 13:09:40  SOS ALERT (rapid blinks)
+2026-11-25 13:09:46  SOS / nurse call cleared (keyboard)
+2026-11-25 13:09:54  Selected: LIGHT - waiting for confirmation
+2026-11-25 13:10:01  Cancelled: LIGHT (not confirmed)
+2026-11-25 13:10:16  Selected: CALL NURSE - waiting for confirmation
+2026-11-25 13:10:21  Nurse called (confirmed)
+2026-11-25 13:10:37  Selected: SOS - waiting for confirmation
+2026-11-25 13:10:43  SOS ALERT (confirmed)
+2026-11-25 13:11:00  SOS / nurse call cleared (keyboard)
+2026-11-25 13:11:07  Selected: SOS - waiting for confirmation
+2026-11-25 13:11:13  SOS ALERT (confirmed)
+2026-11-25 13:11:23  SOS / nurse call cleared (keyboard)
+2026-11-25 13:12:03  Selected: LIGHT - waiting for confirmation
+2026-11-25 13:12:10  Cancelled: LIGHT (not confirmed)
+2026-11-25 13:13:03  SOS ALERT (rapid blinks)
+2026-11-25 13:13:06  SOS / nurse call cleared (keyboard)
+2026-11-25 13:13:41  Selected: LIGHT - waiting for confirmation
+2026-11-25 13:13:47  Paused (button)
+2026-11-25 13:13:48  App closed
+2026-11-25 13:37:19  App started
+2026-11-25 13:37:19  Arduino connected on COM5
+2026-11-25 13:37:27  Calibrated: open-eye EAR 0.302, closed threshold 0.211
+2026-11-25 13:37:27  App ready
+2026-11-25 13:37:29  SOS ALERT (rapid blinks)
+2026-11-25 13:37:34  SOS / nurse call cleared (keyboard)
+2026-11-25 13:38:07  App closed
+2026-11-25 13:40:41  App started
+2026-11-25 13:40:42  Arduino connected on COM5
+2026-11-25 13:40:44  Calibrated: open-eye EAR 0.270, closed threshold 0.189
+2026-11-25 13:40:44  App ready
+2026-11-25 13:40:46  SOS ALERT (rapid blinks)
+2026-11-25 13:40:54  SOS / nurse call cleared (keyboard)
+2026-11-25 13:41:22  Selected: FAN - waiting for confirmation
+2026-11-25 13:41:27  Fan ON (confirmed)
+2026-11-25 13:41:57  SOS ALERT (rapid blinks)
+2026-11-25 13:41:59  SOS / nurse call cleared (keyboard)
+2026-11-25 13:42:05  App closed
+2026-11-25 13:43:44  App started
+2026-11-25 13:43:45  Arduino connected on COM5
+2026-11-25 13:43:47  Calibrated: open-eye EAR 0.282, closed threshold 0.198
+2026-11-25 13:43:47  App ready
+2026-11-25 13:43:59  Selected: FAN - waiting for confirmation
+2026-11-25 13:44:04  Fan ON (confirmed)
+2026-11-25 13:48:45  SOS ALERT (rapid blinks)
+2026-11-25 13:48:47  SOS / nurse call cleared (keyboard)
+2026-11-25 13:48:50  App closed
+2026-11-25 13:50:46  App started
+2026-11-25 13:50:47  Arduino connected on COM5
+2026-11-25 13:50:50  Calibrated: open-eye EAR 0.247, closed threshold 0.173
+2026-11-25 13:50:50  App ready
+2026-11-25 13:51:01  Selected: FAN - waiting for confirmation
+2026-11-25 13:51:05  Fan ON (confirmed)
+2026-11-25 13:51:19  Selected: SOS - waiting for confirmation
+2026-11-25 13:51:26  SOS ALERT (confirmed)
+2026-11-25 13:51:28  SOS / nurse call cleared (keyboard)
+2026-11-25 13:51:30  App closed
+2026-11-25 13:53:27  App started
+2026-11-25 13:53:28  Arduino connected on COM5
+2026-11-25 13:53:30  Calibrated: open-eye EAR 0.276, closed threshold 0.193
+2026-11-25 13:53:30  App ready
+2026-11-25 13:53:43  Selected: FAN - waiting for confirmation
+2026-11-25 13:53:50  Fan ON (confirmed)
+2026-11-25 13:53:57  Selected: FAN - waiting for confirmation
+2026-11-25 13:54:02  Fan OFF (confirmed)
+2026-11-25 13:54:21  Selected: FAN - waiting for confirmation
+2026-11-25 13:54:25  Fan ON (confirmed)
+2026-11-25 13:54:59  Selected: CALL NURSE - waiting for confirmation
+2026-11-25 13:55:07  Cancelled: CALL NURSE (not confirmed)
+2026-11-25 13:55:15  SOS ALERT (rapid blinks)
+2026-11-25 13:55:24  SOS / nurse call cleared (keyboard)
+2026-11-25 13:56:04  Selected: FAN - waiting for confirmation
+2026-11-25 13:56:09  Fan OFF (confirmed)
+2026-11-25 13:56:16  Selected: FAN - waiting for confirmation
+2026-11-25 13:56:24  Fan ON (confirmed)
+2026-11-25 13:56:38  SOS ALERT (rapid blinks)
+2026-11-25 13:56:43  SOS / nurse call cleared (keyboard)
+2026-11-25 13:57:42  SOS ALERT (rapid blinks)
+2026-11-25 13:57:44  SOS / nurse call cleared (keyboard)
+2026-11-25 13:57:45  App closed
+2026-11-25 14:01:03  App started
+2026-11-25 14:01:04  Arduino connected on COM5
+2026-11-25 14:01:09  Calibrated: open-eye EAR 0.326, closed threshold 0.228
+2026-11-25 14:01:09  App ready
+2026-11-25 14:01:25  Selected: FAN - waiting for confirmation
+2026-11-25 14:01:30  Fan ON (confirmed)
+2026-11-25 14:02:10  Selected: FAN - waiting for confirmation
+2026-11-25 14:02:17  Cancelled: FAN (not confirmed)
+2026-11-25 14:02:28  Selected: SOS - waiting for confirmation
+2026-11-25 14:02:35  Cancelled: SOS (not confirmed)
+2026-11-25 14:02:41  Selected: SOS - waiting for confirmation
+2026-11-25 14:02:48  Cancelled: SOS (not confirmed)
+2026-11-25 14:09:16  Selected: CALL NURSE - waiting for confirmation
+2026-11-25 14:09:23  Cancelled: CALL NURSE (not confirmed)
+2026-11-25 14:09:24  SOS ALERT (rapid blinks)
+2026-11-25 14:09:26  App closed
+2026-11-25 14:10:25  App started
+2026-11-25 14:10:33  Calibrated: open-eye EAR 0.272, closed threshold 0.190
+2026-11-25 14:10:33  App ready
+2026-11-25 14:10:40  Arduino not found - COM5: could not open port 'COM5': OSError(22, 'The semaphore timeout period has expired.', None, 121) | COM10: could not open port 'COM10': OSError(22, 'The semaphore timeout period has expired.', None, 121) | COM6: could not open port 'COM6': OSError(22, 'The semaphore timeout period has expired.', None, 121)
+2026-11-25 14:10:45  Selected: FAN - waiting for confirmation
+2026-11-25 14:10:49  Fan ON (confirmed)
+2026-11-25 14:11:50  App closed
+2026-11-25 14:12:06  App started
+2026-11-25 14:12:06  Arduino connected on COM5
+2026-11-25 14:12:09  Calibrated: open-eye EAR 0.258, closed threshold 0.180
+2026-11-25 14:12:09  App ready
+2026-11-25 14:12:21  Selected: FAN - waiting for confirmation
+2026-11-25 14:12:24  Fan ON (confirmed)
+2026-11-25 14:12:32  Selected: FAN - waiting for confirmation
+2026-11-25 14:12:39  Fan OFF (confirmed)
+2026-11-25 14:12:57  Selected: SOS - waiting for confirmation
+2026-11-25 14:13:04  Cancelled: SOS (not confirmed)
+2026-11-25 14:13:19  Selected: FAN - waiting for confirmation
+2026-11-25 14:13:23  Fan ON (confirmed)
+2026-11-25 14:15:19  SOS ALERT (rapid blinks)
+2026-11-25 14:15:21  SOS / nurse call cleared (keyboard)
+2026-11-25 14:15:52  Selected: FAN - waiting for confirmation
+2026-11-25 14:15:56  Fan OFF (confirmed)
+2026-11-25 14:16:11  SOS ALERT (rapid blinks)
+2026-11-25 14:16:13  App closed
+2026-11-25 14:16:18  App started
+2026-11-25 14:16:19  Arduino connected on COM5
+2026-11-25 14:16:21  App closed
+2026-11-25 14:17:30  App started
+2026-11-25 14:17:31  Arduino connected on COM5
+2026-11-25 14:17:33  Calibrated: open-eye EAR 0.141, closed threshold 0.098
+2026-11-25 14:17:33  App ready
+2026-11-25 14:18:00  Selected: FAN - waiting for confirmation
+2026-11-25 14:18:07  Cancelled: FAN (not confirmed)
+2026-11-25 14:18:50  Selected: FAN - waiting for confirmation
+2026-11-25 14:18:56  Fan ON (confirmed)
+2026-11-25 14:26:25  App closed
+2026-11-25 14:31:41  App started
+2026-11-25 14:31:41  Arduino connected on COM5
+2026-11-25 14:31:42  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:31:42  Arduino connected on COM5
+2026-11-25 14:31:43  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:31:43  Arduino connected on COM5
+2026-11-25 14:31:44  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:31:44  Arduino connected on COM5
+2026-11-25 14:31:46  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:31:46  Arduino connected on COM5
+2026-11-25 14:31:47  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:31:47  Arduino connected on COM5
+2026-11-25 14:31:48  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:31:48  Arduino connected on COM5
+2026-11-25 14:31:49  Calibrated: open-eye EAR 0.323, closed threshold 0.226
+2026-11-25 14:31:50  App ready
+2026-11-25 14:31:50  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:31:50  Arduino connected on COM5
+2026-11-25 14:31:50  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:31:50  Arduino connected on COM5
+2026-11-25 14:31:51  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:31:51  Arduino connected on COM5
+2026-11-25 14:31:52  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:31:52  Arduino connected on COM5
+2026-11-25 14:31:54  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:31:54  Arduino connected on COM5
+2026-11-25 14:31:55  App closed
+2026-11-25 14:32:01  App started
+2026-11-25 14:32:01  Arduino connected on COM5
+2026-11-25 14:32:02  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:02  Arduino connected on COM5
+2026-11-25 14:32:03  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:03  Arduino connected on COM5
+2026-11-25 14:32:04  Calibrated: open-eye EAR 0.247, closed threshold 0.173
+2026-11-25 14:32:05  App ready
+2026-11-25 14:32:05  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:05  Arduino connected on COM5
+2026-11-25 14:32:05  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:05  Arduino connected on COM5
+2026-11-25 14:32:06  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:06  Arduino connected on COM5
+2026-11-25 14:32:08  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:08  Arduino connected on COM5
+2026-11-25 14:32:09  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:09  Arduino connected on COM5
+2026-11-25 14:32:10  App closed
+2026-11-25 14:32:22  App started
+2026-11-25 14:32:22  Arduino connected on COM5
+2026-11-25 14:32:23  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:23  Arduino connected on COM5
+2026-11-25 14:32:24  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:24  Arduino connected on COM5
+2026-11-25 14:32:25  Calibrated: open-eye EAR 0.226, closed threshold 0.158
+2026-11-25 14:32:27  App ready
+2026-11-25 14:32:27  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:27  Arduino connected on COM5
+2026-11-25 14:32:27  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:27  Arduino connected on COM5
+2026-11-25 14:32:28  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:28  Arduino connected on COM5
+2026-11-25 14:32:29  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:29  Arduino connected on COM5
+2026-11-25 14:32:30  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:30  Arduino connected on COM5
+2026-11-25 14:32:31  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:31  Arduino connected on COM5
+2026-11-25 14:32:32  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:32  Arduino connected on COM5
+2026-11-25 14:32:34  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:34  Arduino connected on COM5
+2026-11-25 14:32:35  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:35  Arduino connected on COM5
+2026-11-25 14:32:36  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:36  Arduino connected on COM5
+2026-11-25 14:32:37  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:37  Arduino connected on COM5
+2026-11-25 14:32:38  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:38  Arduino connected on COM5
+2026-11-25 14:32:39  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:39  Arduino connected on COM5
+2026-11-25 14:32:40  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:40  Arduino connected on COM5
+2026-11-25 14:32:42  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:42  Arduino connected on COM5
+2026-11-25 14:32:43  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:43  Arduino connected on COM5
+2026-11-25 14:32:44  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:44  Arduino connected on COM5
+2026-11-25 14:32:45  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:45  Arduino connected on COM5
+2026-11-25 14:32:46  Arduino link lost on COM5 - reconnecting
+2026-11-25 14:32:46  Arduino connected on COM5
+2026-11-25 14:32:47  App closed
+2026-11-25 14:38:45  App started
+2026-11-25 14:38:45  Arduino connected on COM5
+2026-11-25 14:38:54  Calibrated: open-eye EAR 0.294, closed threshold 0.206
+2026-11-25 14:38:54  App ready
+2026-11-25 14:39:06  Selected: FAN - waiting for confirmation
+2026-11-25 14:39:09  Fan ON (confirmed)
+2026-11-25 14:39:26  SOS ALERT (rapid blinks)
+2026-11-25 14:39:28  SOS / nurse call cleared (keyboard)
+2026-11-25 14:39:56  SOS ALERT (rapid blinks)
+2026-11-25 14:39:57  SOS / nurse call cleared (keyboard)
+2026-11-25 14:40:13  App closed
+2026-11-25 14:42:04  App started
+2026-11-25 14:42:05  Arduino connected on COM5
+2026-11-25 14:42:08  Calibrated: open-eye EAR 0.290, closed threshold 0.203
+2026-11-25 14:42:08  App ready
+2026-11-25 14:42:20  Selected: FAN - waiting for confirmation
+2026-11-25 14:42:23  Fan ON (confirmed)
+2026-11-25 14:42:25  Selected: FAN - waiting for confirmation
+2026-11-25 14:42:33  Cancelled: FAN (not confirmed)
+2026-11-25 14:42:34  SOS ALERT (rapid blinks)
+2026-11-25 14:42:37  SOS / nurse call cleared (keyboard)
+2026-11-25 14:42:40  App closed
