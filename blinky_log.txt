@@ -831,3 +831,279 @@
 2026-11-25 14:42:34  SOS ALERT (rapid blinks)
 2026-11-25 14:42:37  SOS / nurse call cleared (keyboard)
 2026-11-25 14:42:40  App closed
+2026-11-26 05:44:32  App started
+2026-11-26 05:44:33  Arduino connected on COM5
+2026-11-26 05:44:35  Calibrated: open-eye EAR 0.274, closed threshold 0.192
+2026-11-26 05:44:35  App ready
+2026-11-26 05:45:02  Selected: LIGHT - waiting for confirmation
+2026-11-26 05:45:11  Light ON (confirmed)
+2026-11-26 05:45:18  Selected: FAN - waiting for confirmation
+2026-11-26 05:45:25  Fan ON (confirmed)
+2026-11-26 05:45:29  SOS ALERT (rapid blinks)
+2026-11-26 05:45:36  SOS / nurse call cleared (keyboard)
+2026-11-26 05:45:41  Selected: FAN - waiting for confirmation
+2026-11-26 05:45:45  Fan OFF (confirmed)
+2026-11-26 05:46:00  Selected: LIGHT - waiting for confirmation
+2026-11-26 05:46:06  Light OFF (confirmed)
+2026-11-26 05:46:41  App closed
+2026-11-26 08:57:26  App started
+2026-11-26 08:57:28  Arduino connected on COM5
+2026-11-26 08:57:30  Calibrated: open-eye EAR 0.245, closed threshold 0.171
+2026-11-26 08:57:30  App ready
+2026-11-26 08:57:40  Selected: LIGHT - waiting for confirmation
+2026-11-26 08:57:47  Cancelled: LIGHT (not confirmed)
+2026-11-26 08:57:51  Selected: LIGHT - waiting for confirmation
+2026-11-26 08:57:59  Light ON (confirmed)
+2026-11-26 08:58:32  Selected: LIGHT - waiting for confirmation
+2026-11-26 08:58:37  Light OFF (confirmed)
+2026-11-26 08:58:50  Selected: FAN - waiting for confirmation
+2026-11-26 08:58:59  Fan ON (confirmed)
+2026-11-26 08:59:51  Selected: LIGHT - waiting for confirmation
+2026-11-26 08:59:58  Cancelled: LIGHT (not confirmed)
+2026-11-26 09:00:33  Selected: LIGHT - waiting for confirmation
+2026-11-26 09:00:40  Cancelled: LIGHT (not confirmed)
+2026-11-26 09:01:07  Selected: SOS - waiting for confirmation
+2026-11-26 09:01:14  Cancelled: SOS (not confirmed)
+2026-11-26 09:01:17  SOS ALERT (rapid blinks)
+2026-11-26 09:01:18  App closed
+2026-11-26 09:01:23  App started
+2026-11-26 09:01:24  Arduino connected on COM5
+2026-11-26 09:01:26  App closed
+2026-11-26 09:19:08  App started
+2026-11-26 09:19:08  Arduino connected on COM5
+2026-11-26 09:19:10  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:10  Arduino connected on COM5
+2026-11-26 09:19:11  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:11  Arduino connected on COM5
+2026-11-26 09:19:12  Calibrated: open-eye EAR 0.327, closed threshold 0.229
+2026-11-26 09:19:13  App ready
+2026-11-26 09:19:13  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:13  Arduino connected on COM5
+2026-11-26 09:19:13  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:13  Arduino connected on COM5
+2026-11-26 09:19:14  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:14  Arduino connected on COM5
+2026-11-26 09:19:16  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:16  Arduino connected on COM5
+2026-11-26 09:19:17  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:17  Arduino connected on COM5
+2026-11-26 09:19:18  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:18  Arduino connected on COM5
+2026-11-26 09:19:19  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:19  Arduino connected on COM5
+2026-11-26 09:19:20  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:20  Arduino connected on COM5
+2026-11-26 09:19:22  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:22  Arduino connected on COM5
+2026-11-26 09:19:23  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:23  Arduino connected on COM5
+2026-11-26 09:19:24  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:24  Arduino connected on COM5
+2026-11-26 09:19:25  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:25  Arduino connected on COM5
+2026-11-26 09:19:26  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:26  Arduino connected on COM5
+2026-11-26 09:19:27  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:27  Arduino connected on COM5
+2026-11-26 09:19:29  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:29  Arduino connected on COM5
+2026-11-26 09:19:30  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:30  Arduino connected on COM5
+2026-11-26 09:19:31  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:31  Arduino connected on COM5
+2026-11-26 09:19:32  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:32  Arduino connected on COM5
+2026-11-26 09:19:33  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:33  Arduino connected on COM5
+2026-11-26 09:19:34  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:34  Arduino connected on COM5
+2026-11-26 09:19:36  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:36  Arduino connected on COM5
+2026-11-26 09:19:37  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:37  Arduino connected on COM5
+2026-11-26 09:19:38  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:38  Arduino connected on COM5
+2026-11-26 09:19:39  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:39  Arduino connected on COM5
+2026-11-26 09:19:40  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:40  Arduino connected on COM5
+2026-11-26 09:19:41  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:41  Arduino connected on COM5
+2026-11-26 09:19:43  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:43  Arduino connected on COM5
+2026-11-26 09:19:44  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:44  Arduino connected on COM5
+2026-11-26 09:19:45  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:45  Arduino connected on COM5
+2026-11-26 09:19:46  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:46  Arduino connected on COM5
+2026-11-26 09:19:47  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:19:47  Arduino connected on COM5
+2026-11-26 09:24:45  App started
+2026-11-26 09:24:45  Arduino connected on COM5
+2026-11-26 09:24:46  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:24:46  Arduino connected on COM5
+2026-11-26 09:24:47  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:24:47  Arduino connected on COM5
+2026-11-26 09:24:48  Calibrated: open-eye EAR 0.276, closed threshold 0.193
+2026-11-26 09:24:49  App ready
+2026-11-26 09:24:49  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:24:49  Arduino connected on COM5
+2026-11-26 09:24:49  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:24:50  Arduino connected on COM5
+2026-11-26 09:24:51  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:24:51  Arduino connected on COM5
+2026-11-26 09:24:52  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:24:52  Arduino connected on COM5
+2026-11-26 09:24:53  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:24:53  Arduino connected on COM5
+2026-11-26 09:24:54  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:24:54  Arduino connected on COM5
+2026-11-26 09:24:55  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:24:55  Arduino connected on COM5
+2026-11-26 09:24:57  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:24:57  Arduino connected on COM5
+2026-11-26 09:24:58  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:24:58  Arduino connected on COM5
+2026-11-26 09:24:59  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:24:59  Arduino connected on COM5
+2026-11-26 09:25:00  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:00  Arduino connected on COM5
+2026-11-26 09:25:01  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:01  Arduino connected on COM5
+2026-11-26 09:25:02  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:02  Arduino connected on COM5
+2026-11-26 09:25:04  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:04  Arduino connected on COM5
+2026-11-26 09:25:05  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:05  Arduino connected on COM5
+2026-11-26 09:25:06  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:06  Arduino connected on COM5
+2026-11-26 09:25:07  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:07  Arduino connected on COM5
+2026-11-26 09:25:08  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:08  Arduino connected on COM5
+2026-11-26 09:25:09  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:09  Arduino connected on COM5
+2026-11-26 09:25:11  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:11  Arduino connected on COM5
+2026-11-26 09:25:12  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:12  Arduino connected on COM5
+2026-11-26 09:25:13  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:13  Arduino connected on COM5
+2026-11-26 09:25:14  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:14  Arduino connected on COM5
+2026-11-26 09:25:15  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:15  Arduino connected on COM5
+2026-11-26 09:25:17  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:17  Arduino connected on COM5
+2026-11-26 09:25:18  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:18  Arduino connected on COM5
+2026-11-26 09:25:19  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:19  Arduino connected on COM5
+2026-11-26 09:25:20  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:20  Arduino connected on COM5
+2026-11-26 09:25:21  App closed
+2026-11-26 09:25:42  App started
+2026-11-26 09:25:42  Arduino connected on COM5
+2026-11-26 09:25:43  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:43  Arduino connected on COM5
+2026-11-26 09:25:44  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:44  Arduino connected on COM5
+2026-11-26 09:25:46  Calibrated: open-eye EAR 0.323, closed threshold 0.226
+2026-11-26 09:25:47  App ready
+2026-11-26 09:25:47  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:47  Arduino connected on COM5
+2026-11-26 09:25:47  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:47  Arduino connected on COM5
+2026-11-26 09:25:48  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:48  Arduino connected on COM5
+2026-11-26 09:25:49  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:49  Arduino connected on COM5
+2026-11-26 09:25:50  Arduino link lost on COM5 - reconnecting
+2026-11-26 09:25:50  Arduino connected on COM5
+2026-11-26 09:25:51  App closed
+2026-11-26 09:32:32  App started
+2026-11-26 09:32:33  Arduino connected on COM5
+2026-11-26 09:32:35  Calibrated: open-eye EAR 0.298, closed threshold 0.209
+2026-11-26 09:32:35  App ready
+2026-11-26 09:32:44  Selected: LIGHT - waiting for confirmation
+2026-11-26 09:32:52  Cancelled: LIGHT (not confirmed)
+2026-11-26 09:32:57  Selected: LIGHT - waiting for confirmation
+2026-11-26 09:33:04  Cancelled: LIGHT (not confirmed)
+2026-11-26 09:33:08  Selected: LIGHT - waiting for confirmation
+2026-11-26 09:33:12  Light ON (confirmed)
+2026-11-26 09:33:22  SOS ALERT (rapid blinks)
+2026-11-26 09:33:23  SOS / nurse call cleared (keyboard)
+2026-11-26 09:33:23  SOS / nurse call cleared (keyboard)
+2026-11-26 09:34:12  Selected: FAN - waiting for confirmation
+2026-11-26 09:34:19  Cancelled: FAN (not confirmed)
+2026-11-26 09:34:31  SOS ALERT (rapid blinks)
+2026-11-26 09:34:34  SOS / nurse call cleared (keyboard)
+2026-11-26 09:35:38  Selected: LIGHT - waiting for confirmation
+2026-11-26 09:35:45  Light OFF (confirmed)
+2026-11-26 09:35:50  App closed
+2026-11-26 09:41:01  App started
+2026-11-26 09:41:02  Arduino connected on COM5
+2026-11-26 09:41:05  Calibrated: open-eye EAR 0.281, closed threshold 0.197
+2026-11-26 09:41:05  App ready
+2026-11-26 09:41:21  Selected: FAN - waiting for confirmation
+2026-11-26 09:41:25  Fan ON (confirmed)
+2026-11-26 09:41:40  Selected: LIGHT - waiting for confirmation
+2026-11-26 09:41:44  Light ON (confirmed)
+2026-11-26 09:41:49  App closed
+2026-11-26 09:43:27  App started
+2026-11-26 09:43:29  Arduino connected on COM5
+2026-11-26 09:43:31  Calibrated: open-eye EAR 0.332, closed threshold 0.232
+2026-11-26 09:43:31  App ready
+2026-11-26 09:43:35  SOS ALERT (rapid blinks)
+2026-11-26 09:43:36  SOS / nurse call cleared (keyboard)
+2026-11-26 09:43:36  SOS / nurse call cleared (keyboard)
+2026-11-26 09:43:38  SOS / nurse call cleared (keyboard)
+2026-11-26 09:43:45  Selected: LIGHT - waiting for confirmation
+2026-11-26 09:43:48  Light ON (confirmed)
+2026-11-26 09:43:58  Selected: FAN - waiting for confirmation
+2026-11-26 09:44:03  Fan ON (confirmed)
+2026-11-26 09:44:09  Selected: FAN - waiting for confirmation
+2026-11-26 09:44:15  Fan OFF (confirmed)
+2026-11-26 09:44:41  SOS ALERT (rapid blinks)
+2026-11-26 09:44:43  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:43  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:43  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:44  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:44  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:44  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:44  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:44  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:45  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:45  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:45  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:45  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:46  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:46  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:46  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:46  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:47  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:47  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:47  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:48  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:48  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:51  Selected: CALL NURSE - waiting for confirmation
+2026-11-26 09:44:55  Nurse called (confirmed)
+2026-11-26 09:44:55  SOS / nurse call cleared (keyboard)
+2026-11-26 09:44:55  SOS / nurse call cleared (keyboard)
+2026-11-26 09:45:00  App closed
+2026-11-26 09:45:21  App started
+2026-11-26 09:45:22  Arduino connected on COM5
+2026-11-26 09:45:24  Calibrated: open-eye EAR 0.257, closed threshold 0.180
+2026-11-26 09:45:24  App ready
+2026-11-26 09:45:25  App closed
+2026-11-26 09:47:26  App started
+2026-11-26 09:47:27  Arduino connected on COM5
+2026-11-26 09:47:29  Calibrated: open-eye EAR 0.278, closed threshold 0.195
+2026-11-26 09:47:29  App ready
+2026-11-26 09:47:51  Selected: LIGHT - waiting for confirmation
+2026-11-26 09:47:55  Light ON (confirmed)
+2026-11-26 09:47:59  Selected: LIGHT - waiting for confirmation
+2026-11-26 09:48:03  Light OFF (confirmed)
+2026-11-26 09:48:08  App closed

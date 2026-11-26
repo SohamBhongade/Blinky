@@ -5,11 +5,11 @@
   on the 16x2 I2C screen (address 0x27).
 
   Letters (the laptop app sends these; you can also type them in the Serial Monitor):
-    L / l   light on / off    (all 3 LEDs together)
-    F / f   fan on / off
+    L / l   light on / off    (GREEN LED = room light)
+    F / f   fan on / off      (BLUE LED = fan; steady, or BLINKING if the light is also on)
     S       SOS               (all 3 LEDs blink fast + continuous beep)
-    X       clear SOS / nurse call (LEDs go back to the light's on/off state)
-    N       call nurse        (3 short beeps + screen message)
+    X       clear SOS / nurse call
+    N       call nurse        (RED LED on + 3 short beeps + screen message)
     G       app ready         (screen message)
     Z       everything off    (sent when the app starts)
 */
@@ -21,12 +21,19 @@
 // ---- PINS ----
 const int FAN_PIN  = 2;               // L298N IN1 -> fan motor
 const int LAMP_PIN = 4;               // L298N IN3 -> extra lamp (optional, switches with the light)
-const int LED_PINS[] = {5, 6, 7};     // the 3 LEDs = the room light
+// LED colours - if a colour is wrong, just swap these three numbers.
+// (At start-up the LEDs flash in the order RED, GREEN, BLUE so you can check.)
+const int RED_PIN   = 5;              // red   = nurse call
+const int GREEN_PIN = 6;              // green = room light
+const int BLUE_PIN  = 7;              // blue  = fan
+const int LED_PINS[] = {RED_PIN, GREEN_PIN, BLUE_PIN};
 const int BUZZER   = 8;               // active buzzer, + leg
 
+const unsigned long FAN_BLINK_MS = 400;   // blue LED blink speed when fan + light are both on
 const unsigned long SOS_BLINK_MS = 250;   // 250 ms on + 250 ms off = 2 flashes a second (epilepsy-safe)
 
 bool lightOn = false;
+bool fanOn = false;
 bool sosActive = false;
 bool nurseActive = false;
 unsigned long nurseStart = 0;   // when the nurse call started, for the beeps
@@ -120,6 +127,13 @@ void showStatus(const char *text) {
   lcdLine(1, text);
 }
 
+// Top line = live summary, e.g. [bulb] ON    [fan] OFF
+void showSummary() {
+  char line[17];
+  snprintf(line, sizeof(line), "\x02 %-4s  \x03 %-4s", lightOn ? "ON" : "OFF", fanOn ? "ON" : "OFF");
+  lcdLine(0, line);
+}
+
 // =====================================================================
 
 void setLeds(bool on) {
@@ -128,6 +142,7 @@ void setLeds(bool on) {
 
 void allOff() {
   lightOn = false;
+  fanOn = false;
   sosActive = false;
   nurseActive = false;
   setLeds(false);
@@ -167,15 +182,17 @@ void loop() {
       case 'L':
         lightOn = true;
         digitalWrite(LAMP_PIN, HIGH);
-        showStatus("\x02 Light ON");
+        showSummary();
+        showStatus("Green: Light ON");
         break;
       case 'l':
         lightOn = false;
         digitalWrite(LAMP_PIN, LOW);
-        showStatus("\x02 Light OFF");
+        showSummary();
+        showStatus("Green: Light OFF");
         break;
-      case 'F': digitalWrite(FAN_PIN, HIGH); showStatus("\x03 Fan ON");  break;   // HIGH = full power
-      case 'f': digitalWrite(FAN_PIN, LOW);  showStatus("\x03 Fan OFF"); break;
+      case 'F': fanOn = true;  digitalWrite(FAN_PIN, HIGH); showSummary(); showStatus("Blue: Fan ON");  break;
+      case 'f': fanOn = false; digitalWrite(FAN_PIN, LOW);  showSummary(); showStatus("Blue: Fan OFF"); break;
       case 'S':
         sosActive = true;
         showStatus("\x07 SOS! HELP! \x07");
@@ -183,15 +200,15 @@ void loop() {
       case 'N':
         nurseActive = true;
         nurseStart = millis();
-        showStatus("\x04 Nurse called");
+        showStatus("Red: Nurse call");
         break;
       case 'X':
         sosActive = false;
         nurseActive = false;
         showStatus("\x06 All clear");
         break;
-      case 'G': showStatus("\x06 Ready"); break;
-      case 'Z': allOff(); showStatus("All off"); break;
+      case 'G': showSummary(); showStatus("\x06 Ready"); break;
+      case 'Z': allOff(); showSummary(); showStatus("All off"); break;
       default: break;       // ignore anything else (e.g. Enter key characters)
     }
   }
@@ -202,7 +219,15 @@ void loop() {
     setLeds((millis() / SOS_BLINK_MS) % 2 == 0);
     digitalWrite(BUZZER, (millis() / SOS_BLINK_MS) % 2 == 0 ? HIGH : LOW);
   } else {
-    setLeds(lightOn);          // normal: LEDs follow the light switch
+    // normal: GREEN = light, BLUE = fan, RED = nurse call
+    digitalWrite(GREEN_PIN, lightOn ? HIGH : LOW);
+    bool blueOn = false;
+    if (fanOn) {
+      // fan on: steady blue; if the light is on too, blue BLINKS so you can tell them apart
+      blueOn = lightOn ? ((millis() / FAN_BLINK_MS) % 2 == 0) : true;
+    }
+    digitalWrite(BLUE_PIN, blueOn ? HIGH : LOW);
+    digitalWrite(RED_PIN, nurseActive ? HIGH : LOW);
     if (nurseActive) {
       // Nurse: 3 short beeps (250 ms on, 250 ms off), then quiet
       unsigned long t = millis() - nurseStart;

@@ -277,9 +277,24 @@ class ArduinoLink:
     def _try_open(self, name):
         try:
             ser = serial.Serial(name, self.baud, timeout=0, write_timeout=1)
-            return ser, None
         except (serial.SerialException, OSError, ValueError) as e:
             return None, e
+        # Windows opens a paired HC-05's COM port even when the board is OFF,
+        # so "port opened" does not prove the Arduino is there. Send one
+        # harmless test byte ('?' - the sketch ignores it). If the write fails,
+        # nothing is really listening, so we stay "not connected".
+        try:
+            ser.write_timeout = 3
+            ser.write(b"?")
+            ser.flush()
+            ser.write_timeout = 1
+            return ser, None
+        except (serial.SerialException, OSError) as e:
+            try:
+                ser.close()
+            except Exception:
+                pass
+            return None, "port opened but the Arduino did not answer (is it switched on?)"
 
     def _keep_connected(self):
         while not self._stop.is_set():
@@ -330,8 +345,7 @@ class ArduinoLink:
                         ser.close()
                     except Exception:
                         pass
-                    self.ser = None
-                    self._wake.set()
+                    self.ser = None          # wait SERIAL_RETRY_S before retrying (no rapid flapping)
         print(f"[DEMO] would send '{char}'")
 
     def close(self):
